@@ -1,0 +1,32 @@
+GUI thonny IDE-
+
+https://projects.raspberrypi.org/en/projects/getting-started-with-guis
+https://lawsie.github.io/guizero/window/
+
+Docs for pyttsx3- https://pyttsx3.readthedocs.io/en/latest/engine.html#the-engine-factory
+
+NLP - https://pypi.org/project/SpeechRecognition/
+
+Using microphone in raspberry pi - https://pimylifeup.com/raspberrypi-microphone/
+
+Speech Recog-https://www.raspberrypi.org/blog/talk-to-your-raspberry-pi-hackspace-36/
+
+Mic testing - https://www.rhydolabz.com/wiki/?p=16234
+
+pyaudio - https://stackoverflow.com/questions/65709212/import-pyaudio-doesnt-work-symbol-not-found-pamaccore-setupchannelmap-on-ma
+
+speech pc ver - https://realpython.com/python-speech-recognition/#:~:text=Open%20up%20another%20interpreter%20session,instance%20of%20the%20recognizer%20class.&text=Now%2C%20instead%20of%20using%20an,instance%20of%20the%20Microphone%20class.
+
+Speech to text - going forward with IBM speech to text , will switch to CMU sphinx once it is configured.
+
+Wav recorder - https://voice-recorder-online.com/
+
+IBM speech to text - https://cloud.ibm.com/services/speech-to-text/crn%3Av1%3Abluemix%3Apublic%3Aspeech-to-text%3Aeu-gb%3Aa%2F269ff58fa10a4da3921dfe0dfc143779%3Ac1300a63-e564-4df8-b0c1-fe9b3a03d1ea%3A%3A?paneId=credentials&new=true
+
+Google api - https://pythonspot.com/speech-recognition-using-google-speech-api/google api - 
+
+Pedestrian detector - https://www.geeksforgeeks.org/pedestrian-detection-using-opencv-python/
+
+https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/ -- connecting the smartphone camera with Rpi
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=27953
